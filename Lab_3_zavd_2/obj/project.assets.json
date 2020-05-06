@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ООП\\Lab_3\\Lab_3\\Lab_3\\Lab_3.csproj",
-      "projectName": "Lab_3",
-      "projectPath": "D:\\ООП\\Lab_3\\Lab_3\\Lab_3\\Lab_3.csproj",
+      "projectUniqueName": "D:\\ООП\\Lab_3\\Lab_3_zavd_2\\Lab_3_zavd_2\\Lab_3_zavd_2.csproj",
+      "projectName": "Lab_3_zavd_2",
+      "projectPath": "D:\\ООП\\Lab_3\\Lab_3_zavd_2\\Lab_3_zavd_2\\Lab_3_zavd_2.csproj",
       "packagesPath": "C:\\Users\\vladg\\.nuget\\packages\\",
-      "outputPath": "D:\\ООП\\Lab_3\\Lab_3\\Lab_3\\obj\\",
+      "outputPath": "D:\\ООП\\Lab_3\\Lab_3_zavd_2\\Lab_3_zavd_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladg\\AppData\\Roaming\\NuGet\\NuGet.Config",
